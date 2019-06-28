@@ -1,2 +1,2 @@
 # Flow Control SoftSerial for Arduino
-Paul Stoffregen's Software Serial library hacked to incorporate RTS/CTS flow control.
+Paul Stoffregen's excellent Software Serial library for Arduino hacked to incorporate RTS/CTS flow control.
